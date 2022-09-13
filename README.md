@@ -1,2 +1,2 @@
 # Python
-Python projects and study files
+Python projects and study material
